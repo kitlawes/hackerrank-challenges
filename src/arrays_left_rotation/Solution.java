@@ -1,10 +1,6 @@
-package left_rotation;
+package arrays_left_rotation;
 
-import java.io.*;
 import java.util.*;
-import java.text.*;
-import java.math.*;
-import java.util.regex.*;
 
 public class Solution {
 
